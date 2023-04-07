@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "src/index.js",
   "license": "MIT",
+  "scripts": {
+    "start": "electron src/index.js"
+  },
   "dependencies": {
     "electron": "^24.0.0"
   }
